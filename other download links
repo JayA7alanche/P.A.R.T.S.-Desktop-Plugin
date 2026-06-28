@@ -1,0 +1,4 @@
+ "HuggingFaceTB/SmolLM3-3B" model card, Hugging Face, https://huggingface.co/HuggingFaceTB/SmolLM3-3B
+ "Quantization Explained: Q4_K_M vs AWQ vs FP16 for Local LLMs," SitePoint, https://www.sitepoint.com/quantization-q4km-vs-awq-fp16-local-llms/
+ k2-fsa, "sherpa-onnx" (GitHub repository), https://github.com/k2-fsa/sherpa-onnx
+ "Llama.cpp – Run LLM Inference in C/C++," llama-cpp.com, https://llama-cpp.com/
